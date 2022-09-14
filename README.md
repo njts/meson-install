@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/njts/meson-install/main/meson-update.sh &
 \
 ### Changelog
 
-#### v1.1 15-05-2022
+#### v1.1 09-15-2022
 
 - Configuration updater
 
