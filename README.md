@@ -17,9 +17,12 @@ wget https://raw.githubusercontent.com/njts/meson-install/main/meson-update.sh &
 
 - Installation guide
 
-- Installation guide
+- CPU architecture detection
 
-- Auto port configuration\
+- Auto port configuration
+
+- Configuration updater
+\
 \
 \
 \
@@ -33,5 +36,5 @@ wget https://raw.githubusercontent.com/njts/meson-install/main/meson-update.sh &
 
 - First version
 - Installation guide
-- Installation guide
+- CPU architecture detection
 - Auto port configuration
