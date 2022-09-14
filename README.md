@@ -1,5 +1,5 @@
 # meson-install
-
+![](./image.png)
 ### This script makes it easier to install and configure Meson 3.0 nodes on any Linux machine.
 
 ```
@@ -13,27 +13,25 @@ wget https://raw.githubusercontent.com/njts/meson-install/main/meson-install.sh 
 wget https://raw.githubusercontent.com/njts/meson-install/main/meson-update.sh && chmod +x meson-update.sh && ./meson-update.sh
 ```
 
-![](./image.png)
-
-#### Features:
+## Features:
 
 - Installation guide
 
 - Installation guide
 
-- Auto port configuration
-
-
-
+- Auto port configuration\
+\
+\
+\
 ### Changelog
 
 #### v1.1 15-05-2022
 
-Configuration updater
+- Configuration updater
 
 #### v1.0 09-05-2022
 
-First version
-Installation guide
-Installation guide
-Auto port configuration
+- First version
+- Installation guide
+- Installation guide
+- Auto port configuration
