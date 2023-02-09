@@ -3,8 +3,8 @@
 cpu_arch="$(uname -m)"
 freespace="$(df --output=avail -h "$PWD" | sed '1d;s/[^0-9]//g')" # print free space
 installdir="$(findmnt -n -T .)" # print installation partion / disk
-AMD="https://staticassets.meson.network/public/meson_cdn/v3.1.18/meson_cdn-linux-amd64.tar.gz"
-ARM="https://staticassets.meson.network/public/meson_cdn/v3.1.18/meson_cdn-linux-arm64.tar.gz"
+AMD="https://staticassets.meson.network/public/meson_cdn/v3.1.19/meson_cdn-linux-amd64.tar.gz"
+ARM="https://staticassets.meson.network/public/meson_cdn/v3.1.19/meson_cdn-linux-arm64.tar.gz"
 
 # functions
 now() {
